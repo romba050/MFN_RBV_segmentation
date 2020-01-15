@@ -4,6 +4,11 @@ This report analyses Mean Field network (MFN) formulations for segmenting blood 
 
 <br>
 <p align="center">
-  <img src="https://github.com/romba050/MFN_RBV_segmentation/blob/master/gt_image7_t.png"></img>
+  original image
+  <img src="https://github.com/romba050/MFN_RBV_segmentation/tree/master/readme_images/img00_masked.png"></img>
+  vessel segmentation (ground truth)
+  <img src="https://github.com/romba050/MFN_RBV_segmentation/tree/master/readme_images/img00_ground_truth_cropped.png"></img>
+  vessel segmentation (model prediction)
+  <img src="https://github.com/romba050/MFN_RBV_segmentation/tree/master/readme_images/img00_pred_cropped.png"></img>
 </p>
 <br>
