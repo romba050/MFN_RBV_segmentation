@@ -16,7 +16,7 @@ First a Multilayer perceptron is applied on the task both to serve as a baseline
 
 <p align="center">
   workflow<br>
-  <img src="https://github.com/romba050/MFN_RBV_segmentation/blob/master/readme_images/MFN_workflow.png" width="500pixels"></img>
+  <img src="https://github.com/romba050/MFN_RBV_segmentation/blob/master/readme_images/MFN_workflow.png"></img>
 </p>
 
 
