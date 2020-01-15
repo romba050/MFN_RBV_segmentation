@@ -33,5 +33,5 @@ Below you can see the prediction for a given fundus image by model 3.
 </p>
 
 Sources: <br>
-[1] Yujia Li and Richard Zemel. \Mean-Field Networks". In: 32.2 (2014), pp. 1{5. issn: 0038-1098.
-doi: 10.1016/0038- 1098(65)90067- 0. arXiv: 1410.5884. url: http://arxiv.org/abs/1410.5884.
+[1] Yujia Li and Richard Zemel. "Mean-Field Networks". In: 32.2 (2014), pp. 1-5. issn: 0038-1098.
+doi: 10.1016/0038-1098(65)90067-0. arXiv: 1410.5884. url: http://arxiv.org/abs/1410.5884.
