@@ -8,7 +8,7 @@ All three models follow the same basic outline. They are composed of a unary and
 
 <p align="center">
   unary and pairwise potentials <br>
-  <img src="https://github.com/romba050/MFN_RBV_segmentation/blob/master/readme_images/message_passing.png" width="500pixels"></img>
+  <img src="https://github.com/romba050/MFN_RBV_segmentation/blob/master/readme_images/unary_and_pw_potentials.png" width="500pixels"></img>
 </p>
 
 First a Multilayer perceptron is applied on the task both to serve as a baseline for comparison and later as an integral part of the MFN, serving as it's unary potential. Then one of three MFN formulations of different connectedness are run for the pairwise potential (case 1 , case 2 or case 3). It is shown that increasing connectedness does indeed increase prediction success.
@@ -18,6 +18,9 @@ First a Multilayer perceptron is applied on the task both to serve as a baseline
   workflow<br>
   <img src="https://github.com/romba050/MFN_RBV_segmentation/blob/master/readme_images/MFN_workflow.png" width="500pixels"></img>
 </p>
+
+
+Below you can see the prediction for a given fundus image by model 3.
 
 <br>
 <p align="center">
