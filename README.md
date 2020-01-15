@@ -32,7 +32,6 @@ Below you can see the prediction for a given fundus image by model 3.
   <img src="https://github.com/romba050/MFN_RBV_segmentation/blob/master/readme_images/img00_pred_cropped.png"></img><br>
 </p>
 
-Sources:
+Sources: <br>
 [1] Yujia Li and Richard Zemel. \Mean-Field Networks". In: 32.2 (2014), pp. 1{5. issn: 0038-1098.
-doi: 10.1016/0038- 1098(65)90067- 0. arXiv: 1410.5884. url: http://arxiv.org/abs/
-1410.5884.
+doi: 10.1016/0038- 1098(65)90067- 0. arXiv: 1410.5884. url: http://arxiv.org/abs/1410.5884.
