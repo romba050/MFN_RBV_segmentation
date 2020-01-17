@@ -22,7 +22,7 @@ First a Multilayer perceptron is applied on the task both to serve as a baseline
 </p>
 
 
-Below you can see the prediction for a given fundus image by model 3.
+Below you can see the prediction for a given fundus image by model case 3.
 
 <br>
 <p align="center">
