@@ -2,7 +2,7 @@
 
 The following is a quick overview of the project, for an in-depth description, read "Mean Field Networks for Retinal Blood Vessel Segmentation.pdf"
 
-This work analyses a machine learning model known as Mean Field Network (MFN) [1](http://arxiv.org/abs/1410.5884) for segmenting blood vessels in eye-fundus images. Blood vessel segmentation is a classic problem in ophthalmology and it involves the prediction of long, elongated structures that thin towards the end into single pixel thickness. Extracting the vessel tree of an eye-fundus image is a well studied problem.
+This work analyses a machine learning model known as Mean Field Network (MFN) [[1]](http://arxiv.org/abs/1410.5884) for segmenting blood vessels in eye-fundus images. Blood vessel segmentation is a classic problem in ophthalmology and it involves the prediction of long, elongated structures that thin towards the end into single pixel thickness. Extracting the vessel tree of an eye-fundus image is a well studied problem.
 
 MFNs allow a high degree of customizability, because the formulation of the model involves the design of an energy function that determines how the network learns. This allows to use expert knowledge about the data to your advantage for better prediction. Furthermore, this property makes them interesting for analysis, as the choice of energy function may inform about underlying properties of the data. This report investigates the use of different MFN formulations on this particular task via different models of connectedness (dubbed case 1, case 2 and case 3). 
 
