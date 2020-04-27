@@ -6,7 +6,7 @@ This work analyses a machine learning model known as Mean Field Network (MFN) [[
 
 MFNs allow a high degree of customizability, because the formulation of the model involves the design of an energy function that determines how the network learns. This allows to use expert knowledge about the data to your advantage for better prediction. Furthermore, this property makes them interesting for analysis, as the choice of energy function may inform about underlying properties of the data. This report investigates the use of different MFN formulations on this particular task via different models of connectedness (dubbed case 1, case 2 and case 3). 
 
-All three models follow the same basic outline. The make us of an energy function. The energy function involves of a unary and a pairwise potential of pixels. The unary potential of a pixel is a score that is based on the features of that pixel. The pairwise potential is a score for a pair of pixels based on their similarity. In our case these pixels are direclty adjacent to each other in the grid, i.e. each pixel has 8 neighbours and 8 pairwise potentials. 
+All three models follow the same basic outline and share the same energy function. The energy function involves a unary and a pairwise potential of pixels. The unary potential of a pixel is a score that is based on the features of that pixel. The pairwise potential is a score for a pair of pixels based on their similarity. In our case these pixels are direclty adjacent to each other in the grid, i.e. each pixel has 8 neighbours and 8 pairwise potentials. 
 
 <p align="center">
   unary and pairwise potentials <br>
